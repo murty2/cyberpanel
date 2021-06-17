@@ -13,6 +13,7 @@ Cyberpanel is a good product and I hope someone forks it and takes it in the rig
 - Attempts to do DNS hijacking and breaking the networking in general. (Question for the genius who coded the install scripts: Is a running systemd-networkd necessary to achieve network connectivity in Linux?)
 - Passwords either insecure or in plain. Removes SELinux protection itself; not to mention attempt to add swap and other system level changes without user permission
 - Randomly downgrades dependencies. Never mind the security issues in this process
+- Claims to be a control panel for webshoting and yet excessively tampers with OS itself
 
 
 # CyberPanel
